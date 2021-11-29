@@ -10,23 +10,30 @@ After moving back to his hometown, Adam wrote multiple business plans, scouted t
 
 Upon reviewing the business landscape in downtown Lafayette and global circumstances, Adam sold his business and transitioned into an Asset Integrity Engineering role with Intertek in Broussard, LA. Adam was able to quickly learn and demonstrate his detail oriented technical skills as a technical consultant ensuring quality reporting of asset integrity issues on deep water oil and gas facilities. As the newest Engineer in the group, Adam wrote detailed workflow notes and onboarded two technical consultants, acting as their mentor.
 
-With a desire to transition careers into a long-time personal interest of computer programming, Adam saw an opportunity to apply to the Perficient Bright Paths Program. After completing the interview process, Adam was subsequently accepted into the 16 week coding bootcamp. 
+With a desire to transition careers into a long-time personal interest of computer programming, Adam saw an opportunity to apply to the Perficient Bright Paths Program. After completing the interview process, Adam was subsequently accepted into the 16 week coding bootcamp. During Adam's coding bootcamp with the Perficient Bright Paths Program in conjuction with DevMountain and HackBright, he was able to gain a foundation in software development.  After the first 7 weeks of the bootcamp, Adam developed a full stack application.
 
 ## Skills
-Adam is a Petroleum Engineering graduate of the University of Louisiana at Lafayette. During his tenure with Chevron as a Petroleum Engineer, Adam quickly became a Lean Sigma Project Manager and the front-end user Champion for creating workflows with new software. Adam interacted as a front-end user with a multitude of programs at Chevron. During Adam’s time as a Perficient Bright Paths Program Student, he learned JavaScript, HTML, CSS, Python, GIT, SQL, QA, DevOps, and computer science.
+Adam is a Petroleum Engineering graduate of the University of Louisiana at Lafayette. During his tenure with Chevron as a Petroleum Engineer, Adam quickly became a Lean Sigma Project Manager and the front-end user Champion for creating workflows with new software. Adam interacted as a front-end user with a multitude of programs at Chevron. During Adam’s time as a Perficient Bright Paths Program Student, he learned JavaScript, HTML, CSS, Python, GIT, SQL, QA, DevOps, and the fundamentals of Computer Science.
 
+![icons8-javascript-48](https://user-images.githubusercontent.com/92332985/143921177-ba405848-2b0f-4652-be28-f390520c2a1d.png)
+![icons8-python-48](https://user-images.githubusercontent.com/92332985/143921227-1ef8398f-9ed0-4a75-873f-025cd416f17b.png)
+![icons8-css-60](https://user-images.githubusercontent.com/92332985/143921233-4dc4112f-c66c-4225-be64-116588b4cb87.png)
+![icons8-html-60](https://user-images.githubusercontent.com/92332985/143921236-77cc6e57-6dec-476b-87b8-d66cd407eb1a.png)
+![icons8-git-48](https://user-images.githubusercontent.com/92332985/143921242-b5615b3c-eb2a-442b-ad42-65fffe3ddba8.png)
+![icons8-postgresql-48](https://user-images.githubusercontent.com/92332985/143921246-649bfe92-b248-4557-8c5a-4a9e39ac8ccf.png)
+![icons8-sql-60](https://user-images.githubusercontent.com/92332985/143921252-69af164c-cb97-45b6-bc2a-260c0f57c6a2.png)
 
 ## Projects
 
 ### Workout App
 **Description:** 
 
-Use the Workout App to view workouts that others have posted.  Become your own author and view existing workouts (GET), add your own workouts to the App (POST), Edit existing workouts(PATCH), or delete workouts(DELETE) from a PostGres Database.
+The 3-By-30 Workout App is a fullstack application which utilizes CRUD methodology to interact with a database and display the results to the user.  Become your own author and view existing workouts (GET), add your own workouts to the App (POST), Edit existing workouts(PATCH), or delete workouts(DELETE) from a PostGres SQL Database.
 
 **Technologies:**
 
 _Front End:_ HTML, CSS, JavaScript, Axios<br/>
-_Back End:_ JavaScript, Postgres, Dotenv, Sequelize, Github, Heroku, Cors, Express, Nodemon  <br/>
+_Back End:_ JavaScript, Postgres SQL, Dotenv, Sequelize, Github, Heroku, Cors, Express, Nodemon  <br/>
 
 **Watch the Demo:**
 [![Watch the App Demo](https://github.com/Adam0Ray/workout-app-capstone-adam/blob/master/static/AppTop.JPG?raw=true)](https://youtu.be/zGD1ijf67dY?list=PLP86Iv3qsm-ygxUuEb5Wzn_TSpSEO1fjC)
