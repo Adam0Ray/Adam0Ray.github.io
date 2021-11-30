@@ -36,7 +36,7 @@ _Front End:_ HTML, CSS, JavaScript, Axios<br/>
 _Back End:_ JavaScript, Postgres SQL, Dotenv, Sequelize, Github, Heroku, Cors, Express, Nodemon  <br/>
 
 **Watch the Demo:**
-[![Watch the App Demo](https://github.com/Adam0Ray/workout-app-capstone-adam/blob/master/static/AppTop.JPG?raw=true)](https://youtu.be/zGD1ijf67dY?list=PLP86Iv3qsm-ygxUuEb5Wzn_TSpSEO1fjC)
+[![Watch the App Demo](https://github.com/Adam0Ray/workout-app-capstone-adam/blob/master/static/technicalDemoPhoto.JPG?raw=true)](https://github.com/Adam0Ray/workout-app-capstone-adam/blob/master/static/technicalDemoPhoto.JPG?raw=true)
 
 **GitHub Link:**
 [GitHub Project Link](https://github.com/Adam0Ray/workout-app-capstone-adam)
